@@ -11,9 +11,9 @@ Dessa forma, serão necessários pelo menos dois vazamentos de senha usando a me
 
 ## Modo de usar
 
-Apenas abra um terminal e digite: ./Cripta2-0 \<site> \<senha>. Por exemplo: ./Cripta2-0 https://foo.com senha
+Digite os valores nos campos e clique em encriptar.
 
-Para compilar: g++ main.cpp -o Cripta
+Para compilar: Instale as dependencias do QT (Kdevelop ou QT creator) importe o projeto e compile.
 
 ### Atenção
 
