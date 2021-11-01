@@ -11,7 +11,7 @@ Dessa forma, serão necessários pelo menos dois vazamentos de senha usando a me
 
 ## Modo de usar
 
-Apenas abra um terminal e digite: ./Cripta \<site> \<senha>. Por exemplo: ./Cripta https://foo.com senha
+Apenas abra um terminal e digite: ./Cripta2-0 \<site> \<senha>. Por exemplo: ./Cripta2-0 https://foo.com senha
 
 Para compilar: g++ main.cpp -o Cripta
 
