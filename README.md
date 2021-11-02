@@ -18,3 +18,5 @@ Para compilar: Instale as dependencias do QT (Kdevelop ou QT creator) importe o 
 ### Atenção
 
 Este é um projeto amador, e não deve ser usado em ambientes críticos. Uso para senhas pessoais é razoável, mas para ambientes profissionais recomenda-se um software mais sofisticado.
+
+Logo por: <div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
